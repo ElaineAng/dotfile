@@ -1,0 +1,1 @@
+(define-package "protobuf-mode" "20170526.1650" "major mode for editing protocol buffers." 'nil :commit "fd90f4536045bc881b8b895731fe72d89450b6b4" :keywords '("google" "protobuf" "languages") :authors '(("Alexandre Vassalotti" . "alexandre@peadrop.com")) :maintainer '("Alexandre Vassalotti" . "alexandre@peadrop.com"))
