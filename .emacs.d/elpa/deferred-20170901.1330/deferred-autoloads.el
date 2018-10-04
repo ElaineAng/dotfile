@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil nil ("deferred.el") (23474 36587 931742 274000))
+;;;### (autoloads nil nil ("deferred.el") (23478 20092 154858 607000))
 
 ;;;***
 
