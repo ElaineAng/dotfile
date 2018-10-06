@@ -92,4 +92,4 @@ export NVM_DIR="$HOME/.nvm"
 # gopath related
 export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/go
-export PATTH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOPATH/bin
