@@ -89,9 +89,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-export P4C_BM_PATH="/home/elaine/p4c-bm"
-export PATH=$PATH:/home/elaine/p4c-bm:/home/elaine/behavioral-model
-export BMV2_PATH="/home/elaine/behavioral-model"
-
-export PATH=$PATH:/home/elaine/sketch-1.6.9/sketch-frontend
-export SKETCH_HOME="/home/elaine/sketch-1.6.9/sketch-frontend/runtime"
+# gopath related
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATTH=$PATH:$GOPATH/bin
