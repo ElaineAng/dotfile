@@ -1,0 +1,37 @@
+pane	436	0	:~/538/a1	1	:*	0	:/home/elaine/538/a1	1	zsh	:
+pane	436	0	:~/538/a1	1	:*	1	:/home/elaine/pox/ext	0	emacs	:emacs firewall.py -nw
+pane	436	0	:~/538/a1	1	:*	2	:/home/elaine/pox	0	zsh	:
+pane	436	1	:~/538/a1	0	:	0	:/home/elaine/538/a1	0	zsh	:
+pane	436	1	:~/538/a1	0	:	1	:/home/elaine/pox	1	zsh	:
+pane	436	2	:~/436lab/lab5	0	:-	0	:/home/elaine/436lab/lab5	1	zsh	:
+pane	438	0	:~	1	:*	0	:/home/elaine	1	zsh	:
+pane	538	0	:..roject/banzai	0	:-	0	:/home/elaine/538/project/banzai	1	zsh	:
+pane	538	0	:..roject/banzai	0	:-	1	:/home/elaine	0	zsh	:
+pane	538	1	:..mxnet/ps-lite	1	:*	0	:/home/elaine/523/incubator-mxnet/ps-lite	1	zsh	:
+pane	8	0	:~/436lab/lab2	1	:*	0	:/home/elaine/436lab/lab2	0	less	:less 20170914.log
+pane	8	0	:~/436lab/lab2	1	:*	1	:/home/elaine/436lab/lab2	1	zsh	:
+pane	Monitor	0	:..b5/cs144_lab3	1	:*	0	:/home/elaine/corrector	1	htop	:htop
+pane	NEAt	0	:~/corrector	1	:*	0	:/home/elaine/corrector	1	zsh	:
+pane	NEAt	0	:~/corrector	1	:*	1	:/home/elaine/pox/pox	0	zsh	:
+pane	Shichu_438_submission	0	:~/ranang2/MP3	1	:*	0	:/home/elaine/ranang2/MP3	1	zsh	:
+pane	test	0	:~/ryu	0	:-	0	:/home/elaine	0	zsh	:
+pane	test	0	:~/ryu	0	:-	1	:/home/elaine/ryu	1	zsh	:
+pane	test	1	:~	1	:*	0	:/home/elaine	0	zsh	:
+pane	test	1	:~	1	:*	1	:/home/elaine/ryu	0	zsh	:
+pane	test	1	:~	1	:*	2	:/home/elaine	1	zsh	:
+pane	test2	0	:~/mininet	1	:*	0	:/home/elaine/ryu	0	zsh	:
+pane	test2	0	:~/mininet	1	:*	1	:/home/elaine/mininet	1	zsh	:
+window	436	0	1	:*	d342,211x58,0,0{120x58,0,0,1,90x58,121,0[90x27,121,0,2,90x30,121,28,3]}
+window	436	1	0	:	7686,211x58,0,0{105x58,0,0,4,105x58,106,0,6}
+window	436	2	0	:-	66e7,211x58,0,0,37
+window	438	0	1	:*	e6df,211x58,0,0,20
+window	538	0	0	:-	62b7,211x58,0,0{113x58,0,0,8,97x58,114,0,9}
+window	538	1	1	:*	66e0,211x58,0,0,11
+window	8	0	1	:*	dd46,211x58,0,0{105x58,0,0,21,105x58,106,0,22}
+window	Monitor	0	1	:*	66e1,211x58,0,0,12
+window	NEAt	0	1	:*	9006,204x54,0,0{98x54,0,0,14,105x54,99,0,15}
+window	Shichu_438_submission	0	1	:*	66e1,211x58,0,0,31
+window	test	0	0	:-	f0eb,157x43,0,0[157x21,0,0,27,157x21,0,22,30]
+window	test	1	1	:*	2114,157x43,0,0[157x21,0,0{78x21,0,0,29,78x21,79,0,36},157x21,0,22,28]
+window	test2	0	1	:*	ab9d,101x54,0,0{50x54,0,0,33,50x54,51,0,35}
+state	436	

@@ -1,0 +1,50 @@
+pane	0	0	:~	1	:*	0	:/home/elaine	1	zsh	:
+pane	436	0	:emacs	0	:	0	:/home/elaine/538/a1	1	zsh	:
+pane	436	0	:emacs	0	:	1	:/home/elaine/pox/ext	0	emacs	:emacs firewall.py -nw
+pane	436	0	:emacs	0	:	2	:/home/elaine/pox	0	zsh	:
+pane	436	1	:~/538/a1	0	:-	0	:/home/elaine/538/a1	0	zsh	:
+pane	436	1	:~/538/a1	0	:-	1	:/home/elaine/pox	1	zsh	:
+pane	436	2	:~/436lab/lab5	1	:*	0	:/home/elaine/436lab/lab5	1	zsh	:
+pane	438	0	:~	1	:*	0	:/home/elaine	1	zsh	:
+pane	538	0	:./run.sh	1	:*	0	:/home/elaine/538/project/cs538-p4-cf/tutorials/Teaching/Stanford_CS344_2018	0	emacs	:emacs ../utils/p4apprunner.py
+pane	538	0	:./run.sh	1	:*	1	:/home/elaine/538/project/cs538-p4-cf/tutorials/Teaching/Stanford_CS344_2018	0	zsh	:
+pane	538	0	:./run.sh	1	:*	2	:/home/elaine/538/project/cs538-p4-cf/tutorials/Teaching/Stanford_CS344_2018	1	sh	:sh ./run.sh
+pane	538	1	:..iler/examples	0	:	0	:/home/elaine/538/project/domino-compiler/examples	1	zsh	:
+pane	538	2	:..etch-frontend	0	:M	0	:/home/elaine/sketch-1.6.9/sketch-frontend	0	zsh	:emacs heavy_hitter.p4
+pane	538	2	:..etch-frontend	0	:M	1	:/home/elaine/sketch-1.6.9/sketch-frontend	1	zsh	:
+pane	538	3	:..ect/p4c/build	0	:	0	:/home/elaine/538/project/domino-examples	0	zsh	:
+pane	538	3	:..ect/p4c/build	0	:	1	:/home/elaine/538/project/p4c/build	1	zsh	:
+pane	538	4	:python	0	:	0	:/home/elaine/538/project/p4c	1	python	:python
+pane	538	5	:..roject/banzai	0	:-	0	:/home/elaine/538/project/banzai	1	zsh	:
+pane	8	0	:less	1	:*	0	:/home/elaine/436lab/lab2	0	less	:less 20170914.log
+pane	8	0	:less	1	:*	1	:/home/elaine/436lab/lab2	1	zsh	:
+pane	Monitor	0	:htop	1	:*	0	:/home/elaine/corrector	1	htop	:htop
+pane	NEAt	0	:~/corrector	1	:*	0	:/home/elaine/corrector	1	zsh	:
+pane	NEAt	0	:~/corrector	1	:*	1	:/home/elaine/pox/pox	0	zsh	:
+pane	Shichu_438_submission	0	:~/ranang2/MP3	1	:*	0	:/home/elaine/ranang2/MP3	1	zsh	:
+pane	test	0	:~/ryu	0	:-	0	:/home/elaine	0	zsh	:
+pane	test	0	:~/ryu	0	:-	1	:/home/elaine/ryu	1	zsh	:
+pane	test	1	:~	1	:*	0	:/home/elaine	0	zsh	:
+pane	test	1	:~	1	:*	1	:/home/elaine/ryu	0	zsh	:
+pane	test	1	:~	1	:*	2	:/home/elaine	1	zsh	:
+pane	test2	0	:~/mininet	1	:*	0	:/home/elaine/ryu	0	zsh	:
+pane	test2	0	:~/mininet	1	:*	1	:/home/elaine/mininet	1	zsh	:
+window	0	0	1	:*	cd5d,211x58,0,0,0
+window	436	0	0	:	d342,211x58,0,0{120x58,0,0,1,90x58,121,0[90x27,121,0,2,90x30,121,28,3]}
+window	436	1	0	:-	f685,211x58,0,0{105x58,0,0,4,105x58,106,0,5}
+window	436	2	1	:*	cd63,211x58,0,0,6
+window	438	0	1	:*	b4a4,204x61,0,0,7
+window	538	0	1	:*	c241,204x58,0,0{102x58,0,0[102x29,0,0,9,102x28,0,30,38],101x58,103,0,35}
+window	538	1	0	:	e783,204x58,0,0,24
+window	538	2	0	:M	5acc,204x58,0,0{102x58,0,0,25,101x58,103,0,29}
+window	538	3	0	:	5ac7,204x58,0,0{102x58,0,0,10,101x58,103,0,34}
+window	538	4	0	:	6786,204x58,0,0,36
+window	538	5	0	:-	6787,204x58,0,0,37
+window	8	0	1	:*	7e8d,204x61,0,0{101x61,0,0,11,102x61,102,0,12}
+window	Monitor	0	1	:*	5a82,204x61,0,0,13
+window	NEAt	0	1	:*	49c5,204x61,0,0{98x61,0,0,14,105x61,99,0,15}
+window	Shichu_438_submission	0	1	:*	5a85,204x61,0,0,16
+window	test	0	0	:-	924a,204x61,0,0[204x31,0,0,17,204x29,0,32,18]
+window	test	1	1	:*	c452,204x61,0,0[204x31,0,0{101x31,0,0,19,102x31,102,0,20},204x29,0,32,21]
+window	test2	0	1	:*	fe8e,204x61,0,0{101x61,0,0,22,102x61,102,0,23}
+state	538	436

@@ -1,0 +1,18 @@
+pane	241	0	:emacs	0	:	0	:/home/elaine/cs241/test	0	emacs	:emacs -nw case-test.c
+pane	241	0	:emacs	0	:	1	:/home/elaine/cs241/ag/git-repo	1	emacs	:emacs -nw create_repo.py
+pane	241	1	:emacs	0	:-	0	:/home/elaine/cs241/ranang2/vector	1	emacs	:emacs -nw Makefile
+pane	241	2	:~	1	:*	0	:/home/elaine	1	zsh	:
+pane	425	0	:..gging/go_test	0	:-	0	:/home/elaine/425/remote_logging/go_test	1	zsh	:
+pane	425	1	:..anang2/vector	1	:*	0	:/home/elaine/cs241/ranang2/vector	1	zsh	:
+pane	config-testing	0	:..mo/EchoServer	1	:*	0	:/home/elaine/425/remote_logging/GoNetworkIODemo/EchoServer	1	zsh	:
+pane	config-testing	0	:..mo/EchoServer	1	:*	1	:/home/elaine/425/remote_logging/GoNetworkIODemo/EchoServer	0	zsh	:
+pane	config-testing	0	:..mo/EchoServer	1	:*	2	:/home/elaine/425/remote_logging/GoNetworkIODemo/EchoClient	0	zsh	:
+pane	temp	0	:~	1	:*	0	:/home/elaine	1	ssh	:ssh 241
+window	241	0	0	:	2f02,132x44,0,0[132x21,0,0,0,132x22,0,22,7]
+window	241	1	0	:-	bc43,132x44,0,0,6
+window	241	2	1	:*	bc45,132x44,0,0,8
+window	425	0	0	:-	b6c0,190x71,0,0,3
+window	425	1	1	:*	b6c2,190x71,0,0,5
+window	config-testing	0	1	:*	9d63,230x67,0,0[230x34,0,0{115x34,0,0,11,114x34,116,0,13},230x32,0,35,12]
+window	temp	0	1	:*	b6c6,190x71,0,0,9
+state	425	temp

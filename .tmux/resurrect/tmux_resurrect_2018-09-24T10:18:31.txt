@@ -1,0 +1,27 @@
+pane	241	0	:emacs	0	:	0	:/home/elaine/cs241/test	0	emacs	:emacs -nw case-test.c
+pane	241	0	:emacs	0	:	1	:/home/elaine/cs241/ag/git-repo	1	emacs	:emacs -nw create_repo.py
+pane	241	1	:emacs	0	:-	0	:/home/elaine/cs241/ranang2/vector	1	emacs	:emacs -nw Makefile
+pane	241	2	:241	1	:*	0	:/home/elaine	1	ssh	:ssh 241
+pane	425	0	:ranang2@fa18-cs425-g39-01:~	0	:	0	:/home/elaine/425/remote_logging/Server	1	ssh	:ssh 01
+pane	425	1	:ranang2@fa18-cs425-g39-01:~	0	:-	0	:/home/elaine/425/remote_deploy/mp1	1	ssh	:ssh 01
+pane	425	1	:ranang2@fa18-cs425-g39-01:~	0	:-	1	:/home/elaine/425/remote_logging	0	ssh	:ssh 01
+pane	425	2	:~/CS425HW/HW1	1	:*	0	:/home/elaine/CS425HW/HW1	1	zsh	:
+pane	config-test	0	:..t/nginx-tests	0	:	0	:/home/elaine/config-test/nginx-tests	1	zsh	:
+pane	config-test	1	:emacs	0	:-	0	:/home/elaine/config-test/parse_t	1	emacs	:emacs -nw parse_file.py
+pane	config-test	2	:..-test/parse_t	1	:*	0	:/home/elaine/config-test/parse_t	1	zsh	:
+pane	temp	0	:~	0	:-	0	:/home/elaine	1	zsh	:
+pane	temp	0	:~	0	:-	1	:/home/elaine	0	zsh	:
+pane	temp	1	:..-test/parse_t	1	:*M	0	:/home/elaine/config-test/parse_t	0	emacs	:emacs -nw parse_file.py
+pane	temp	1	:..-test/parse_t	1	:*M	1	:/home/elaine/config-test/parse_t	1	zsh	:
+window	241	0	0	:	2f02,132x44,0,0[132x21,0,0,0,132x22,0,22,7]
+window	241	1	0	:-	bc43,132x44,0,0,6
+window	241	2	1	:*	bc45,132x44,0,0,8
+window	425	0	0	:	65e5,230x67,0,0,16
+window	425	1	0	:-	0fee,230x67,0,0{112x67,0,0,5,117x67,113,0,22}
+window	425	2	1	:*	e5e4,230x67,0,0,25
+window	config-test	0	0	:	6a97,190x69,0,0,18
+window	config-test	1	0	:-	ea98,190x69,0,0,29
+window	config-test	2	1	:*	6a96,190x69,0,0,17
+window	temp	0	0	:-	9c97,230x67,0,0{115x67,0,0,9,114x67,116,0,21}
+window	temp	1	1	:*M	92cf,230x67,0,0{116x67,0,0,19,113x67,117,0,24}
+state	425	temp
