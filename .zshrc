@@ -93,3 +93,8 @@ export NVM_DIR="$HOME/.nvm"
 export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+
+# alias:
+alias emacs="emacs -nw"
+alias g="git"
+alias gcm="git commit"
