@@ -21,7 +21,7 @@
 (global-set-key (kbd "C-x -") 'split-window-below)
 (global-set-key (kbd "C-x /") 'comment-region)
 (global-set-key (kbd "C-c /") 'uncomment-region)
-
+(global-set-key (kbd "C-x w") 'kill-region)
 
 ;; python related config
 (add-hook 'python-mode-hook 'jedi:setup)
@@ -42,6 +42,13 @@
  ;; If there is more than one, they won't work right.
  )
 
+
+(global-flycheck-mode)
+
 (require 'go-autocomplete)
 (require 'auto-complete-config)
 (ac-config-default)
+
+
+;; column number mode
+(setq column-number-mode t)
